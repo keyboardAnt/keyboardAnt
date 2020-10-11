@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
+
+<p align="center">
+  <a href="https://keyboardant.github.io/">Blog</a> •
+  <a href="https://twitter.com/keyboardAnt">Twitter</a>
+</p>
+
+---
 
 <!--
 **keyboardAnt/keyboardAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
