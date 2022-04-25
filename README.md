@@ -1,8 +1,9 @@
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">
+  <a href="https://keyboardant.github.io/">Blog</a> •
   <a href="https://twitter.com/keyboardAnt">Twitter</a> •
-  <a href="https://keyboardant.github.io/">Blog</a>
+  <a href="https://www.linkedin.com/in/nadav-timor/">LinkedIn</a>
 </p>
 
 ---
