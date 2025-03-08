@@ -1,9 +1,10 @@
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">
-  <a href="https://twitter.com/keyboardAnt">Twitter</a> •
+  <a href="https://twitter.com/keyboardAnt">𝕏 (Twitter)</a> •
   <a href="https://www.linkedin.com/in/nadav-timor/">LinkedIn</a> •
-  <a href="https://keyboardant.github.io/">Blog</a>
+  <a href="https://scholar.google.com/citations?user=HxcS1oYAAAAJ">Papers</a> •
+  <a href="https://www.youtube.com/@nadavtimor">YouTube</a>
 </p>
 
 ---
