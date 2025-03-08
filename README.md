@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=HxcS1oYAAAAJ">Papers</a> •
+  <a href="https://scholar.google.com/citations?user=HxcS1oYAAAAJ">gScholar</a> •
   <a href="https://faster-llms.vercel.app/">Faster LLM Inference</a> •
   <a href="https://www.youtube.com/@nadavtimor">YouTube</a>
 </p>
