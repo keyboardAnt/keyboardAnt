@@ -1,13 +1,10 @@
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">
-  <a href="https://twitter.com/keyboardAnt">𝕏 (Twitter)</a> •
-  <a href="https://www.linkedin.com/in/nadav-timor/">LinkedIn</a> •
   <a href="https://scholar.google.com/citations?user=HxcS1oYAAAAJ">Papers</a> •
+  <a href="https://faster-llms.vercel.app/">Faster LLM Inference</a> •
   <a href="https://www.youtube.com/@nadavtimor">YouTube</a>
 </p>
-
----
 
 <!--
 **keyboardAnt/keyboardAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
