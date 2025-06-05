@@ -2,8 +2,11 @@
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=HxcS1oYAAAAJ">gScholar</a> •
-  <a href="https://faster-llms.vercel.app/">Faster LLM Inference</a> •
   <a href="https://www.youtube.com/@nadavtimor">YouTube</a>
+</p>
+
+<p align="center">
+  🎙️ my upcoming <a href="https://faster-llms.vercel.app/talk/nadav-timor">talk</a> on speculative decoding
 </p>
 
 <!--
