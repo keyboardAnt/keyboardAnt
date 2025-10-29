@@ -1,5 +1,5 @@
 <p align="center">
-  🎙️ my upcoming <a href="https://faster-llms.vercel.app/talk/nadav-timor">talk</a> on speculative decoding.
+  🎙️ my recent <a href="https://faster-llms.vercel.app/talk/nadav-timor">talk</a> on speculative decoding.
 </p>
 
 <p align="center">
